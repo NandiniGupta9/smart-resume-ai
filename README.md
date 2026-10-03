@@ -1,4 +1,4 @@
-# SmartResume AI
+# SmartResume AI-AI Resume Analyzer
 
 **SmartResume AI** is an AI-powered Resume Analyzer and ATS Screening web application. Users can upload a resume PDF, paste a Job Description, add important skills, and receive an AI-generated ATS score with matching skills, missing skills, strengths, and improvement suggestions.
 
