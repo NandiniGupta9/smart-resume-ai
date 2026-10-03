@@ -3,7 +3,7 @@
 An AI Resume Analyzer / ATS screening web app. Upload a PDF resume, paste a job
 description, and get an ATS score, matching and missing skills, strengths,
 improvements and a summary.
-
+# Live Demo:  https://smart-resume-ai-k973.onrender.com
 ## Features
 - Sign up / Login with JWT authentication (passwords hashed with bcrypt)
 - Upload a PDF resume, paste a job description, enter key skills
